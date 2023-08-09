@@ -1,0 +1,17 @@
+.modal_form_product_category{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.modal_form_product_category>span{
+    margin-right: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.modal_form_product_category>span>p{
+    margin-left: 10px;
+}

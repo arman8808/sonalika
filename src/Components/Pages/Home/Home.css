@@ -1,0 +1,14 @@
+.modalhomepagepopup{
+    height: 500px;
+    width: 500px;
+    border-radius: 5px;
+}
+@media only screen and (max-width:600px){
+    .modalbox{
+        width: 90%;
+    }
+    .modalhomepagepopup{
+        width: 100%;
+        height: 350px;
+    }
+}

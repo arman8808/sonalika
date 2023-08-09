@@ -1,0 +1,5 @@
+.featuredDeals_bottom_right{
+    overflow-x: scroll;
+    justify-content: flex-start;
+    width: 100%;
+}
